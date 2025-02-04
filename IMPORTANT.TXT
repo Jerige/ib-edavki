@@ -1,0 +1,3 @@
+run with python3 command and include all the years, since you could buy in 2021 and sell in 2024
+
+python3 .\ib_edavki.py EdavkiGenerator-python2021.xml EdavkiGenerator-python2022.xml EdavkiGenerator-python2023.xml EdavkiGenerator-python2024.xml

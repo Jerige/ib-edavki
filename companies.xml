@@ -3,7 +3,7 @@
         <conid>271826666</conid>
         <symbol>FUSD</symbol>
         <name>Fidelity US Quality Income-Inc</name>
-        <taxNumber></taxNumber>
+        <taxNumber />
         <address>Fidelity International, Georges Quay House, 43 Townsend Street, Dublin 2, Ireland</address>
         <country>IE</country>
     </company>
@@ -11,7 +11,7 @@
         <conid>279156979</conid>
         <symbol>QDVX</symbol>
         <name>iShares MSCI Europe Quality Dividend UCITS ETF</name>
-        <taxNumber></taxNumber>
+        <taxNumber />
         <address>2 Ballsbridge Park, Dublin 4, Dublin D04 YW83</address>
         <country>IE</country>
     </company>
@@ -1282,7 +1282,7 @@
     <company>
         <symbol>1234</symbol>
         <name>China Lilang Ltd</name>
-        <taxNumber></taxNumber>
+        <taxNumber />
         <address>Rm 3402 34/F LIPPO CTR TWR ONE 89 QUEENSWAY Admiralty Hong Kong</address>
         <country>HK</country>
     </company>
@@ -1610,7 +1610,7 @@
         <conid>128356142</conid>
         <symbol>2386</symbol>
         <name>SINOPEC Engineering Group Co Ltd</name>
-        <taxNumber></taxNumber>
+        <taxNumber />
         <address>Building 8, Shenggujiayuan, Shenggu Middle Road, Beijing, 100029</address>
         <country>CN</country>
     </company>
@@ -1971,7 +1971,7 @@
         <symbol>EWP</symbol>
         <name>ISHARES MSCI SPAIN ETF</name>
         <taxNumber>8227552</taxNumber>
-       <address>2 Ballsbridge Park, Dublin 4, Dublin D04 YW83</address>
+        <address>2 Ballsbridge Park, Dublin 4, Dublin D04 YW83</address>
         <country>IE</country>
     </company>
     <company>
@@ -2707,5 +2707,126 @@
         <taxNumber>91350000157987632G</taxNumber>
         <address>No. 1, Zijin Avenue, Shanghang County, Longyan, Fujian, 364200</address>
         <country>CN</country>
+    </company>
+    <company>
+        <symbol>M3P</symbol>
+        <name>Medical Properties Trust, Inc.</name>
+        <address>1000 Urban Center Drive, Suite 501 Birmingham, AL 35242</address>
+        <country>US</country>
+        <taxNumber>34-1985135</taxNumber>
+    </company>
+    <company>
+        <symbol>VNA.DIV</symbol>
+        <name>Vonovia SE </name>
+        <address>UniversitAetsstrasse 133, Bochum, 44803 Germany</address>
+        <country>DE</country>
+        <taxNumber>DE197946568</taxNumber>
+    </company>
+    <company>
+        <symbol>BABA</symbol>
+        <name>Alibaba Group Holding Ltd.</name>
+        <address>Hangzhou, 969 West Wen Yi Road, Yu Hang District, China</address>
+        <country>CN</country>
+        <taxNumber>770536787</taxNumber>
+    </company>
+    <company>
+        <symbol>AXS</symbol>
+        <name>AXIS Capital Holdings Ltd.</name>
+        <address>92 Pitts Bay Road, Pembroke, HM08, Bermuda</address>
+        <country>BM</country>
+        <taxNumber>98-0395986</taxNumber>
+    </company>
+    <company>
+        <symbol>SRCE</symbol>
+        <name>1st Source Corp.</name>
+        <address>100 North Michigan Street, P.O. Box 1602 South Bend, IN 46601</address>
+        <country>US</country>
+        <taxNumber>350309575</taxNumber>
+    </company>
+    <company>
+        <symbol>BALL</symbol>
+        <name>Ball Corp.</name>
+        <address>9200 W 108th Circle, Westminster, Colorado</address>
+        <country>US</country>
+        <taxNumber>35-0160610</taxNumber>
+    </company>
+    <company>
+        <symbol>JXN</symbol>
+        <name>Jackson Financial, Inc.</name>
+        <address> 1 Corporate Way, Lansing, MI 48951</address>
+        <country>US</country>
+        <taxNumber>98-0486152</taxNumber>
+    </company>
+    <company>
+        <symbol>PBI</symbol>
+        <name>Pitney Bowes Inc</name>
+        <address>3001 Summer Street, Stamford, CT 06926-0700</address>
+        <country>US</country>
+        <taxNumber>06-0495050</taxNumber>
+    </company>
+    <company>
+        <symbol>EPR</symbol>
+        <name>EPR Properties</name>
+        <address>909 Walnut Street, Suite 200, Kansas City, MO 64106</address>
+        <country>US</country>
+        <taxNumber>43-1790877</taxNumber>
+    </company>
+    <company>
+        <symbol>TRU</symbol>
+        <name>TransUnion</name>
+        <address>555 West Adams Street, Chicago, IL 60661</address>
+        <country>US</country>
+        <taxNumber>611678417</taxNumber>
+    </company>
+    <company>
+        <symbol>KT</symbol>
+        <name>KT Corp.</name>
+        <address>90 Bulljeong-ro (206 Jungja-dong),Bundang-gu, Seongnam-city</address>
+        <country>KP</country>
+        <taxNumber>102-81-42945</taxNumber>
+    </company>
+    <company>
+        <symbol>WRB</symbol>
+        <name>W.R. Berkley Corp.</name>
+        <address>475 Steamboat Road, Greenwich, Connecticut</address>
+        <country>US</country>
+        <taxNumber>221867895</taxNumber>
+    </company>
+    <company>
+        <symbol>BEP</symbol>
+        <name>Brookfield Renewable Partners L.P.</name>
+        <address>181 Bay St, Toronto, Ontario</address>
+        <country>CA</country>
+        <taxNumber>X</taxNumber>
+    </company>
+    <company>
+        <symbol>CLCO</symbol>
+        <name>Cool Company Ltd.</name>
+        <address>Canon's Court, 22 Victoria Street, Hamilton HM 11</address>
+        <country>BM</country>
+        <taxNumber>BR026787</taxNumber>
+    </company>
+    <company>
+        <conid>593672</conid>
+        <symbol>BIRG</symbol>
+        <name>Bank of Ireland Group Plc</name>
+        <address>27-33 Upper Baggot St, Baggot Plaza, Dublin</address>
+        <country>IE</country>
+        <taxNumber />
+    </company>
+    <company>
+        <symbol>MARUY</symbol>
+        <name>Marubeni Corporation</name>
+        <address>4-2, Ohtemachi 1-chome, Chiyoda-ku, Tokyo</address>
+        <country>JP</country>
+        <taxNumber>98-0125512</taxNumber>
+    </company>
+    <company>
+        <conid>775670417</conid>
+        <symbol>MC</symbol>
+        <name>LVMH Moët Hennessy Louis Vuitton SE</name>
+        <address>22, Avenue Montaigne, Paris</address>
+        <country>FR</country>
+        <taxNumber />
     </company>
 </companies>

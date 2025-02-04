@@ -1,0 +1,506 @@
+<ul class="dropdown-menu">
+                        <li class="icon-edpicon-close" ng-click="x.SourceCountry = null"></li>
+                        <!-- ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AF - AFGANISTAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AX - ALAND ISLANDS </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AL - ALBANIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">DZ - ALŽIRIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AS - AMERIŠKA SAMOA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AD - ANDORA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AO - ANGOLA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AI - ANGVILA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AQ - ANTARKTIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AG - ANTIGVA IN BARBUDA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AR - ARGENTINA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AM - ARMENIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AW - ARUBA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AU - AVSTRALIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AT - AVSTRIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AZ - AZERBAJDŽAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BS - BAHAMI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BH - BAHRAJN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BD - BANGLADEŠ </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BB - BARBADOS </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BE - BELGIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BZ - BELIZE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BY - BELORUSIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BJ - BENIN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BM - BERMUDI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BW - BOCVANA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BG - BOLGARIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BO - BOLIVIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BQ - BONAIRE, SINT EUSTATIUS AND SABA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BA - BOSNA IN HERCEGOVINA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BV - BOUVETOV OTOK </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CX - BOŽIČNI OTOK </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BR - BRAZILIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">IO - BRITANSKO OZEMLJE INDIJSKEGA OCEANA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BN - BRUNEJ, DRŽAVA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BF - BURKINA FASO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BI - BURUNDI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BT - BUTAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CY - CIPER </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CK - COOKOVI OTOKI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TD - ČAD </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CZ - ČEŠKA REPUBLIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CL - ČILE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">DK - DANSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TL - DEMOKRATIČNA REPUBLIKA VZHODNI TIMOR  </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">VG - DEVIŠKI OTOKI (BRITANSKI) </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">VI - DEVIŠKI OTOKI (ZDA) </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">DM - DOMINIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">DO - DOMINIKANSKA REPUBLIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">DJ - DŽIBUTI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">EG - EGIPT </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">EC - EKVADOR </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GQ - EKVATORIALNA GVINEJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ER - ERITREJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">EE - ESTONIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ET - ETIOPIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">FK - FALKLANDSKI OTOKI (MALVINI) </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">FO - FERSKI OTOKI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">FJ - FIDŽI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PH - FILIPINI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">FI - FINSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">FR - FRANCIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GF - FRANCOSKA GVAJANA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PF - FRANCOSKA POLINEZIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TF - FRANCOSKO JUŽNO OZEMLJE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GA - GABON </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GM - GAMBIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GH - GANA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GI - GIBRALTAR </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GR - GRČIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GD - GRENADA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GL - GRENLANDIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GE - GRUZIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GP - GUADELOUPE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GU - GUAM </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GG - GUERNSEY </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GY - GVAJANA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GT - GVATEMALA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GN - GVINEJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GW - GVINEJA BISSAU </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">HT - HAITI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">HM - HEARDOV OTOK IN MCDONALDOVI OTOKI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">HN - HONDURAS </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">HK - HONG KONG </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">HR - HRVAŠKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">IN - INDIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ID - INDONEZIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">IQ - IRAK </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">IR - IRAN (ISLAMSKA REPUBLIKA) </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">IE - IRSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">IS - ISLANDIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">IM - ISLE OF MAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">IT - ITALIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">IL - IZRAEL </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">JM - JAMAJKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">JP - JAPONSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">YE - JEMEN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">JE - JERSEY </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">JO - JORDANIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ZA - JUŽNA AFRIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GS - JUŽNA GEORGIA IN OTOKI JUŽNI SANDWICH </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KY - KAJMANSKI OTOKI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KH - KAMBODŽA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CM - KAMERUN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CA - KANADA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">QA - KATAR </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KZ - KAZAHSTAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KE - KENIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KG - KIRGIZISTAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KI - KIRIBATI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CN - KITAJSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CC - KOKOSOVI (KEELING) OTOKI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CO - KOLUMBIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KM - KOMORI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CG - KONGO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CD - KONGO, DEMOKRATIČNA REPUBLIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KP - KOREJA, DEMOKRATIČNA LJUDSKA REPUBLIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KR - KOREJA, REPUBLIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">XK - KOSOVO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CR - KOSTARIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CU - KUBA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CW - KURASAO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KW - KUVAJT </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LA - LAOŠKA LJUDSKA DEMOKRATIČNA REPUBLIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LV - LATVIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LS - LESOTO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LB - LIBANON </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LR - LIBERIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LY - LIBIJSKA ARABSKA DŽAMAHIRIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LI - LIECHTENSTEIN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LT - LITVA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LU - LUKSEMBURG </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MO - MACAU </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MG - MADAGASKAR </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">HU - MADŽARSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MW - MALAVI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MV - MALDIVI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MY - MALEZIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ML - MALI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MT - MALTA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MA - MAROKO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MH - MARSHALLOVI OTOKI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MQ - MARTINIK </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MU - MAURITIUS </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MR - MAVRETANIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">YT - MAYOTTE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MX - MEHIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">FM - MIKRONEZIJA (FEDERATIVNE DRŽAVE) </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MM - MJANMAR </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MD - MOLDAVIJA (REPUBLIKA) </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MC - MONAKO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MN - MONGOLIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MS - MONTSERRAT </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MZ - MOZAMBIK </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NA - NAMIBIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NR - NAURU </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">DE - NEMČIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NP - NEPAL </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NE - NIGER </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NG - NIGERIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NI - NIKARAGVA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NU - NIUE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NL - NIZOZEMSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AN - NIZOZEMSKI ANTILI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NF - NORFOLŠKI OTOK </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NO - NORVEŠKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NC - NOVA KALEDONIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">NZ - NOVA ZELANDIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">OM - OMAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MF - OTOK SV. MARTINA - FRANCOSKI DEL </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SX - OTOK SV. MARTINA - NIZOZEMSKI DEL </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">WF - OTOKA WALLIS IN FUTUNA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TC - OTOKI TURKS IN CAICOS </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PK - PAKISTAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PW - PALAU </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PS - PALESTINSKO OZEMLJE, ZASEDENO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PA - PANAMA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PG - PAPUA NOVA GVINEJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PY - PARAGVAJ </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PE - PERU </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PN - PITCAIRN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PL - POLJSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PR - PORTORIKO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PT - PORTUGALSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ME - REPUBLIKA ČRNA GORA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MK - REPUBLIKA SEVERNA MAKEDONIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">RS - REPUBLIKA SRBIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">RE - REUNION </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">RO - ROMUNIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">RW - RUANDA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">RU - RUSKA FEDERACIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SH - SAINT HELENA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">KN - SAINT KITTS IN NEVIS </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LC - SAINT LUCIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">PM - SAINT PIERRE IN MIQUELON </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">VC - SAINT VINCENT IN GRENADINE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">BL - SAINT-BARTHELEMY </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SB - SALOMONOVI OTOKI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SV - SALVADOR </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">WS - SAMOA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SM - SAN MARINO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ST - SAO TOME IN PRINCIPE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SA - SAUDOVA ARABIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SC - SEJŠELI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SN - SENEGAL </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">MP - SEVERNI MARIANSKI OTOKI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SL - SIERRA LEONE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SG - SINGAPUR </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SY - SIRSKA ARABSKA REPUBLIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CI - SLONOKOŠČENA OBALA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SK - SLOVAŠKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SI - SLOVENIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SO - SOMALIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SS - SOUTH SUDAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CF - SREDNJEAFRIŠKA REPUBLIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">UM - STRANSKI ZUNANJI OTOKI ZDRUŽENIH DRŽAV </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SD - SUDAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SR - SURINAM </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SJ - SVALBARD IN JAN MAYEN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SZ - SVAZI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ES - ŠPANIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">LK - ŠRILANKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">SE - ŠVEDSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CH - ŠVICA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TJ - TADŽIKISTAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TH - TAJSKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TW - TAJVAN, PROVINCA KITAJSKE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TZ - TANZANIJA, ZDRUŽENA REPUBLIKA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TG - TOGO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TK - TOKELAU </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TO - TONGA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TT - TRINIDAD IN TOBAGO </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TN - TUNIZIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TR - TURČIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TM - TURKMENISTAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">TV - TUVALU </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">UG - UGANDA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">UA - UKRAJINA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">UY - URUGVAJ </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">UZ - UZBEKISTAN </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">VU - VANUATU </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">VA - VATIKANSKA MESTNA DRŽAVA (SVETI SEDEŽ) </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">VE - VENEZUELA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">VN - VIETNAM </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">EH - ZAHODNA SAHARA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ZM - ZAMBIJA </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">US - ZDRUŽENE DRŽAVE (USA) </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">AE - ZDRUŽENI ARABSKI EMIRATI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">GB - ZDRUŽENO KRALJESTVO (GBR) </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">CV - ZELENORTSKI OTOKI </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry --><li ng-repeat="item in ngParameter.TCountry" class="ng-scope">
+                          <a href="javascript: void(0)" ng-click="x.SourceCountry = item.ID; " class="ng-binding">ZW - ZIMBABVE </a>
+                        </li><!-- end ngRepeat: item in ngParameter.TCountry -->
+                      </ul>
